@@ -1,4 +1,4 @@
-openjdk:17-jre-buster
+ springci/spring-boot-ci-jdk17
 nginx
 mysql
 
