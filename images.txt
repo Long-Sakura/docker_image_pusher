@@ -1,4 +1,4 @@
-
+openjdk:17-jre-buster
 nginx
 mysql
 
