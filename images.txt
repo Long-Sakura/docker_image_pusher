@@ -1,4 +1,4 @@
-docker pull springci/spring-boot-ci-jdk17:2.7.x
+mysql:8.3.0
 
 nginx
 mysql
